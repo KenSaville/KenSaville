@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenSaville
-- 👀 I’m interested in genetics, genomics and bioinnformatics
+- 👀 I’m interested in genetics, genomics and bioinformatics
 - I teach genetics at Albion College in Michigan www.albion.edu
 - Recently I joined the team at [latch bio](https://latch.bio/) as a biocomputing ambassador.
 - Latch is an end-to-end platform to accelerate scientific discovery. Biologists can organize 
